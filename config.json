@@ -1,5 +1,6 @@
 {
     "token": "el token de tu bot aquí :D",
     "prefix": "el prefijo de tu bot aquí :D",
-    "color": "tu color favorito aquí :D"
+    "color": "tu color favorito aquí :D",
+    "mongoDB": "tu clúster de mongoDB aquí :D"
 }
